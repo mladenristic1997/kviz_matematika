@@ -24,7 +24,7 @@ public class Metode {
 	//Stefan
 	public static double korjenovanje(double a) {
 		
-		return Math.pow(a, -2);
+		return Math.pow(a, 1.0/2);
 	}
 	//Stefan
 	public static double kvadriranje(double a) {
